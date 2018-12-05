@@ -1,0 +1,8 @@
+A joke for the grader:
+There are only two difficult things in csci:
+1. Cache invalidation
+2. Naming things
+3. Off by one errors
+
+
+...please give me a good grade

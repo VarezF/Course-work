@@ -1,0 +1,7 @@
+﻿  test_driver.cpp
+c:\users\freya\desktop\cpts223\pa2\pa2\pa2\test_driver.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\freya\desktop\cpts223\pa2\pa2\pa2\test_driver.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\freya\desktop\cpts223\pa2\pa2\pa2\test_driver.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\freya\desktop\cpts223\pa2\pa2\pa2\test_driver.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\freya\desktop\cpts223\pa2\pa2\pa2\test_driver.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  PA2.vcxproj -> C:\Users\Freya\Desktop\Cpts223\PA2\PA2\Debug\PA2.exe

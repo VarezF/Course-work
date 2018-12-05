@@ -1,0 +1,10 @@
+0
+130
+5
+21
+
+
+gender(1 = male, 0 = female)
+weight
+height
+age

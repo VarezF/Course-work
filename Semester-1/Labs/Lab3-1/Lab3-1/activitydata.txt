@@ -1,0 +1,8 @@
+3
+
+
+1 = sedentary
+2 = Low activity
+3 = Moderate activity
+4 = High activity
+5 = Extra activity

@@ -1,0 +1,68 @@
+﻿Build started 7/18/2018 12:15:07 PM.
+     1>Project "C:\Users\Freya\Desktop\cpts121\cpts122\Lab12_(122)\Lab12_(122)\Lab12_(122).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(39): error C2955: 'ListNode': use of class template requires template argument list
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(7): note: see declaration of 'ListNode'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(39): error C2039: 'ListNode<NODETYPE>': is not a member of 'ListNode'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(7): note: see declaration of 'ListNode'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(39): error C2988: unrecognizable template declaration/definition
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(39): error C2059: syntax error: 'const'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(46): error C2065: 'NODETYPE': undeclared identifier
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(46): error C2923: 'ListNode': 'NODETYPE' is not a valid template type argument for parameter 'NODETYPE'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(47): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(47): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(56): error C2244: 'List::List': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(52): note: see declaration of 'List::List'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(56): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(56): note: 'List::List(void)'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(56): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(56): note: 'List<NODETYPE>::List(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(68): error C2244: 'List::~List': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(59): note: see declaration of 'List::~List'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(68): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(68): note: 'List::~List(void)'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(68): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(68): note: 'List<NODETYPE>::~List(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(81): error C2244: 'List::insertAtFront': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(71): note: see declaration of 'List::insertAtFront'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(81): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(81): note: 'void List::insertAtFront(const NODETYPE &)'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(81): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(81): note: 'void List<NODETYPE>::insertAtFront(const NODETYPE &)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(96): error C2244: 'List::insertAtBack': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(84): note: see declaration of 'List::insertAtBack'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(96): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(96): note: 'void List::insertAtBack(const NODETYPE &)'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(96): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(96): note: 'void List<NODETYPE>::insertAtBack(const NODETYPE &)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(104): error C2244: 'List::removeFromFront': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(99): note: see declaration of 'List::removeFromFront'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(104): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(104): note: 'bool List::removeFromFront(NODETYPE &)'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(104): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(104): note: 'bool List<NODETYPE>::removeFromFront(NODETYPE &)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(110): error C2244: 'List::removeFromBack': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(107): note: see declaration of 'List::removeFromBack'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(110): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(110): note: 'bool List::removeFromBack(NODETYPE &)'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(110): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(110): note: 'bool List<NODETYPE>::removeFromBack(NODETYPE &)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(116): error C2244: 'List::isEmpty': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(113): note: see declaration of 'List::isEmpty'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(116): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(116): note: 'bool List::isEmpty(void) const'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(116): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(116): note: 'bool List<NODETYPE>::isEmpty(void) const'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(122): error C2244: 'List::print': unable to match function definition to an existing declaration
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(119): note: see declaration of 'List::print'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(122): note: definition
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(122): note: 'void List::print(void) const'
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(122): note: existing declarations
+         c:\users\freya\desktop\cpts121\cpts122\lab12_(122)\lab12_(122)\list.h(122): note: 'void List<NODETYPE>::print(void) const'
+     1>Done Building Project "C:\Users\Freya\Desktop\cpts121\cpts122\Lab12_(122)\Lab12_(122)\Lab12_(122).vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.43

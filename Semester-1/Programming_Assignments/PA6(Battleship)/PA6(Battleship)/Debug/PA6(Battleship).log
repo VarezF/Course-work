@@ -1,0 +1,85 @@
+﻿  functions.c
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(18): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(98): warning C4020: 'play_game': too many actual parameters
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(123): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(244): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(246): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(248): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(283): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(285): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(287): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(322): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(324): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(326): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(361): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(363): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(365): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(400): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(402): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(404): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(457): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(519): warning C4029: declared formal parameter list different from definition
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(546): warning C4047: 'function': 'char' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(546): warning C4024: 'check_shot': different types for formal and actual parameter 1
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(551): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(551): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(552): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(552): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(557): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(557): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(576): warning C4013: 'previously_taken_shots' undefined; assuming extern returning int
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(579): warning C4047: 'function': 'char' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(579): warning C4024: 'check_shot': different types for formal and actual parameter 1
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(587): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(587): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(620): warning C4047: 'function': 'char' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(620): warning C4024: 'check_shot': different types for formal and actual parameter 1
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(625): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(625): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(626): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(626): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(631): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(631): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(632): warning C4047: 'function': 'char *(*)[10]' differs in levels of indirection from 'char [10][10]'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(632): warning C4024: 'print_symbol': different types for formal and actual parameter 4
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(535): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(537): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(602): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(604): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(644): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(651): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(713): warning C4028: formal parameter 1 different from declaration
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(724): warning C4028: formal parameter 4 different from declaration
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(820): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  main.c
+  Generating Code...
+c:\users\freya\desktop\oldclasses\cpts121\pa's\pa6(battleship)\pa6(battleship)\functions.c(99): warning C4716: 'prepare_game': must return a value
+  PA6(Battleship).vcxproj -> C:\Users\Freya\Desktop\OldClasses\cpts121\PA's\PA6(Battleship)\Debug\PA6(Battleship).exe

@@ -1,0 +1,76 @@
+The ID or Position is already in use
+The ID or Position is already in use
+player ID:      1               position:       (3, 2)
+player ID:      2               position:       (4, 3)
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (9, 3)
+player ID:      5               position:       (6, 3)
+player ID:      6               position:       (8, 2)
+player ID:      8               position:       (9, 8)
+
+
+
+player ID:      1               position:       (3, 2)
+player ID:      2               position:       (4, 3)
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (9, 8)
+player ID:      5               position:       (6, 3)
+player ID:      6               position:       (8, 2)
+
+
+
+invalid movement
+player ID:      1               position:       (3, 2)
+player ID:      2               position:       (4, 3)
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (9, 8)
+player ID:      5               position:       (6, 3)
+player ID:      6               position:       (8, 2)
+
+
+
+player ID:      1               position:       (3, 2)
+player ID:      2               position:       (3, 3)
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (9, 8)
+player ID:      5               position:       (6, 3)
+player ID:      6               position:       (8, 2)
+
+
+
+player ID:      2               position:       (3, 3)
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (3, 2)
+player ID:      5               position:       (6, 3)
+player ID:      6               position:       (8, 2)
+
+
+
+player ID:      2               position:       (3, 3)
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (8, 2)
+player ID:      5               position:       (6, 3)
+
+
+
+player ID:      3               position:       (4, 6)
+player ID:      4               position:       (8, 2)
+player ID:      5               position:       (3, 3)
+
+
+
+player ID:      4               position:       (4, 6)
+player ID:      5               position:       (3, 3)
+
+
+
+player ID:      4               position:       (4, 6)
+player ID:      5               position:       (4, 3)
+
+
+
+player ID:      4               position:       (4, 3)
+
+
+
+Press any key to continue . . .

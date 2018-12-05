@@ -1,0 +1,6 @@
+There are two difficult things in csci,
+1. Cache invalidation
+2. Naming things
+3. Off by one errors
+
+...wait

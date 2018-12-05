@@ -1,0 +1,20 @@
+﻿Build started 6/11/2018 9:53:44 PM.
+     1>Project "C:\Users\Freya\Desktop\cpts121\cpts122\PA_1(122)\PA_1(122)\PA_1(122).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\freya\desktop\cpts121\cpts122\pa_1(122)\pa_1(122)\main.c(13): warning C4013: 'system' undefined; assuming extern returning int
+     1>c:\users\freya\desktop\cpts121\cpts122\pa_1(122)\pa_1(122)\main.c(5): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+     1>c:\users\freya\desktop\cpts121\cpts122\pa_1(122)\pa_1(122)\main.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+     1>c:\users\freya\desktop\cpts121\cpts122\pa_1(122)\pa_1(122)\main.c(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Freya\Desktop\cpts121\cpts122\PA_1(122)\Debug\PA_1(122).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Freya\Desktop\cpts121\cpts122\PA_1(122)\Debug\PA_1(122).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Freya\Desktop\cpts121\cpts122\PA_1(122)\Debug\PA_1(122).lib" /MACHINE:X86 Debug\functions.obj
+         Debug\main.obj
+         PA_1(122).vcxproj -> C:\Users\Freya\Desktop\cpts121\cpts122\PA_1(122)\Debug\PA_1(122).exe
+     1>Done Building Project "C:\Users\Freya\Desktop\cpts121\cpts122\PA_1(122)\PA_1(122)\PA_1(122).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99

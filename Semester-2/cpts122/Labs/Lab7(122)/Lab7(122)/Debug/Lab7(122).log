@@ -1,0 +1,30 @@
+﻿Build started 6/29/2018 10:15:00 AM.
+     1>Project "C:\Users\Freya\Desktop\cpts121\cpts122\Lab7(122)\Lab7(122)\Lab7(122).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt functions.cpp
+         functions.cpp
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(52): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(52): error C2296: '+': illegal, left operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(52): error C2297: '+': illegal, right operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(53): error C3867: 'Complex::getiPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(53): error C2296: '+': illegal, left operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(53): error C2297: '+': illegal, right operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(61): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(61): error C2296: '+': illegal, left operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(61): error C2297: '+': illegal, right operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(62): error C3867: 'Complex::getiPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(62): error C2296: '+': illegal, left operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(62): error C2297: '+': illegal, right operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(68): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(68): error C2296: '-': illegal, left operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(68): error C2297: '-': illegal, right operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(69): error C3867: 'Complex::getiPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(69): error C2296: '-': illegal, left operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(69): error C2297: '-': illegal, right operand has type 'double (__thiscall Complex::* )(void)'
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(90): error C3867: 'Complex::getRealPart': non-standard syntax; use '&' to create a pointer to member
+     1>c:\users\freya\desktop\cpts121\cpts122\lab7(122)\lab7(122)\functions.cpp(90): error C3867: 'Complex::getiPart': non-standard syntax; use '&' to create a pointer to member
+     1>Done Building Project "C:\Users\Freya\Desktop\cpts121\cpts122\Lab7(122)\Lab7(122)\Lab7(122).vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.60
